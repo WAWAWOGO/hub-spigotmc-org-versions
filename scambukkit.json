@@ -5,7 +5,7 @@
 		"BuildData": "32d1baf2f4e0e7cd1ac22c7b2f6eb4c387e8a343",
 		"Bukkit": "19b7caaabe61c0c789515b09331be675611d6390",
 		"CraftBukkit": "0dae4c62c3b3ef7eb825e386e30884c83d8558ac",
-		"Spigot": "5c7a178fa7db01e85d2e63b318f215b8d993e63d"
+		"Spigot": "cd56c14e14de8873c133450bcab8d3cc5714948a"
 	},
 	"toolsVersion": 181,
 	"javaVersions": [65, 66]
